@@ -1,0 +1,20 @@
+!LIST COLORS
+#define BLACK #000000
+#define WHITE #f6f3e8
+
+rofi.lines: 3
+rofi.modi: run
+rofi.width: 20
+rofi.font: LiberationMono 10
+rofi.color-normal: BLACK, WHITE, BLACK, WHITE, BLACK
+rofi.color-window: BLACK, BLACK, BLACK
+
+
+
+
+
+
+
+
+
+
